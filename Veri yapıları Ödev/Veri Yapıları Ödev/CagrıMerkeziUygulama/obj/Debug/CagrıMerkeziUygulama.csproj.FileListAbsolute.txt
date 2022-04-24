@@ -1,0 +1,10 @@
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\bin\Debug\CagrıMerkeziUygulama.exe.config
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\bin\Debug\CagrıMerkeziUygulama.exe
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\bin\Debug\CagrıMerkeziUygulama.pdb
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.csproj.AssemblyReference.cache
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.Form1.resources
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.Properties.Resources.resources
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.csproj.GenerateResource.cache
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.csproj.CoreCompileInputs.cache
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.exe
+C:\Users\omerf\source\repos\CagrıMerkeziUygulama\CagrıMerkeziUygulama\obj\Debug\CagrıMerkeziUygulama.pdb
